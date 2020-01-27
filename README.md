@@ -2,7 +2,7 @@
 ## Supervised Learning
 ### Project: Finding Donors for CharityML
 
-See [project report]
+See [project report](finding_donors.ipynb)
 
 ### Project Overview
 
